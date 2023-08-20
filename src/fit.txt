@@ -1,0 +1,5 @@
+pyinstaller --noconfirm --onefile -w --console --icon "./src/deta-space.ico" --upx-dir=/path/to/upx/directory "./DetaBaseFatura.py"
+
+pyinstaller --noconfirm --onefile -w --icon "./src/deta-space.ico" "./DetaBaseFatura.py"
+
+pyinstaller --noconfirm --onefile -w --icon "./src/deta-space.ico" --hidden-import babel.numbers "./DetaBaseFatura.py"
