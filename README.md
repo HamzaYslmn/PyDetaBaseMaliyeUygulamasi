@@ -1,5 +1,10 @@
 # PyDetaBaseMaliyeUygulamasi
+V0.1.0
 
+# V0.1.0
+<img width="963" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/dd0a784a-44e4-419a-99c0-f34a531d7a69">
+
+# V0.0.6
 <img width="88" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/fcb107fb-c24a-4514-ad49-cfa9c9919eb5">
 <img width="964" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/fe953235-f272-4f24-8aed-99013fe25cd3">
 <img width="967" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/14b1a832-d773-432d-adf3-6d0e31a8d2eb">
