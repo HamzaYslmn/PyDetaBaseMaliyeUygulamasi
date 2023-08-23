@@ -1,5 +1,6 @@
 # PyDetaBaseMaliyeUygulamasi
-V0.1.0
+[V0.1.0](https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/blob/main/README.md#v010)
+[V0.0.6](https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/tree/main#v006)
 
 # V0.1.0
 <img width="963" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/dd0a784a-44e4-419a-99c0-f34a531d7a69">
