@@ -5,22 +5,28 @@
 
 # V0.1.1
 Add Product
+
 <img width="961" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/85829572-6cc5-4ea1-b0c6-103eb5276cc1">
 
 Remove Product
+
 <img width="962" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/a91b344d-cd7a-41b1-95cf-8931b0f5359d">
 
 Edit Product
+
 <img width="962" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/7bce38a9-40c0-475c-a8f9-4276dcab36e2">
 
 Edit Cell
+
 <img width="962" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/dbbd1720-2a26-4ac4-9e1e-ced002ad0567">
 
 Without Admin mode LOG enabled:
+
 <img width="565" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/cc202145-d5e5-4fa8-8910-9bd149048387">
 <img width="519" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/08ad1c66-cb58-4be3-a768-598cec8f792c">
 
 PDF
+
 <img width="532" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/2800d43a-6718-4157-bf5a-9cb86f904f6f">
 <img width="460" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/c681f26c-4b36-471f-9c12-a76fba38da02">
 
