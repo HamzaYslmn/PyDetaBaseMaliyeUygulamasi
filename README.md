@@ -5,6 +5,10 @@
 
 [V0.0.6](https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/tree/main#v006)
 
+# DetaBaseFreelancer
+[V0.0.3](https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/tree/main#v003)
+
+
 # V0.1.1
 Add Product
 
@@ -49,3 +53,9 @@ PDF
 <img width="967" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/077d44d1-ed29-4f18-80c0-8f3dcaf4b717">
 <img width="964" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/346385ac-bcee-4e5f-92fe-741ff9d5dc7e">
 <img width="276" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/c21bdbd0-9b7d-4ce3-b0d5-4d0fde5f3413">
+
+# Deta Freelancer
+# V0.0.3
+<img width="1011" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/e282b154-6085-4cf7-af1e-92a56e6044c4">
+<img width="965" alt="image" src="https://github.com/HamzaYslmn/PyDetaBaseMaliyeUygulamasi/assets/78810304/4e0560cf-ff10-4582-b507-ba8d91496684">
+
